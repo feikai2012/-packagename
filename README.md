@@ -1,1 +1,2 @@
-"# -packagename" 
+windows 批量获取apk包名等相关信息
+需要aapt.exe环境变量或者和脚本同级目录
